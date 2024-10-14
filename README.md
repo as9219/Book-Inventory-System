@@ -1,5 +1,13 @@
-# CRUD_Operations
+# Book Inventory System
+This project is done with <code>PHP, HTML, and CSS</code> for a class homework project. The main purpose was to showcase our understanding of Create, Read, Update, and Delete operations. <br>
+The DBMS for this project was hosted using XAMPP on a local server. This project can be used using Live View (Page Viewer and VSCode Tool). <br>
 
-The main file is the 'index.php' file which contains code in HTML and PHP.
-stylesheet_main.css is the CSS styling filke used to somewhat make the webpage look a little better.
-The 'uploads' folder contains all the images for the books.
+## File Directory
+### <code>index.php</code>
+Contains HTML and PHP code.
+
+### <code>stylesheet_main.css</code>
+CSS for <code>index.php</code>
+
+### <code>uploads</code>
+Contains all sample images from the book
